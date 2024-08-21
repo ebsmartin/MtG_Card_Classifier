@@ -1,5 +1,2 @@
-Column1,Column2,Column3
-a47456b8-cef8-4085-90b1-92788e16fd27,Shuko,{1},1.0,Artifact — Equipment,[],[],Betrayers of Kamigawa,uncommon,False,14.25
-a47456b8-cef8-4085-90b1-92788e16fd27,Shuko,{1},1.0,Artifact — Equipment,[],[],Betrayers of Kamigawa,uncommon,False,14.25
-a47456b8-cef8-4085-90b1-92788e16fd27,Shuko,{1},1.0,Artifact — Equipment,[],[],Betrayers of Kamigawa,uncommon,False,14.25
-a47456b8-cef8-4085-90b1-92788e16fd27,Shuko,{1},1.0,Artifact - Equipment,[],[],Betrayers of Kamigawa,uncommon,False,14.25
+id,name,mana_cost,cmc,type_line,colors,color_identity,set_name,rarity,full_art,price,number_owned,total_value
+a47456b8-cef8-4085-90b1-92788e16fd27,Shuko,{1},1.0,Artifact - Equipment,[],[],Betrayers of Kamigawa,uncommon,False,14.25,3,42.75
